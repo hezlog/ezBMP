@@ -1,7 +1,4 @@
-﻿# ezBMP
-eZ-Bitmap Converter
-
-
+﻿
 一个由韩国人开发的图片转C图像数组的程序：  
 http://ezcircuits.net/zbxe/24758
 
