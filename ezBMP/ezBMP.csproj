@@ -84,7 +84,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="readme.md" />
     <None Include="Resources\pictureBox1.png" />
   </ItemGroup>
   <ItemGroup>

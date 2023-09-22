@@ -1,6 +1,7 @@
 ﻿# ezBMP
 eZ-Bitmap Converter
 
+![ezBMP](原始程序/ezBMP_1.PNG)
 
 一个由韩国人开发的图片转C图像数组的程序：  
 http://ezcircuits.net/zbxe/24758
